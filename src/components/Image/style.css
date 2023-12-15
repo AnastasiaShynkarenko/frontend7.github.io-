@@ -1,0 +1,17 @@
+.cityImage {
+  height: auto;
+  width: 100%;
+}
+
+.image-wrapper {
+  overflow: hidden;
+  max-width: 600px;
+  display: block;
+}
+
+.image-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
